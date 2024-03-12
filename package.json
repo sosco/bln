@@ -1,5 +1,5 @@
 {
-  "name": "@sosco/blnjs",
+  "name": "@sosco/bln",
   "version": "1.0.2",
   "description": "",
   "type": "module",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sosco/blnjs"
+    "url": "https://github.com/sosco/bln"
   },
-  "website": "https://github.com/sosco/blnjs.git",
+  "website": "https://github.com/sosco/bln.git",
   "keywords": [
     "bln",
     "blacknet"
@@ -19,12 +19,12 @@
   "author": "sosco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sosco/blnjs/issues"
+    "url": "https://github.com/sosco/bln/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/sosco/blnjs#readme",
+  "homepage": "https://github.com/sosco/bln#readme",
   "dependencies": {}
 }
