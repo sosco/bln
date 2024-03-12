@@ -1,37 +1,30 @@
 {
-  "name": "@moncici/binance",
-  "version": "1.0.3",
+  "name": "@sosco/blnjs",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "blnapi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/sosco/blnjs"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/sosco/blnjs.git",
   "keywords": [
-    "binance",
-    "client",
-    "arbitrim"
+    "bln",
+    "blacknet"
   ],
-  "author": "moncici007",
+  "author": "sosco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/sosco/blnjs/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
-  "dependencies": {
-    "@moncici/date-time-processor": "^1.0.3",
-    "@moncici/log": "^1.0.2",
-    "@moncici/proxy": "^1.0.3",
-    "@moncici/sleep": "^1.0.1",
-    "feishu-notifier": "^1.0.3"
-  }
+  "homepage": "https://github.com/sosco/blnjs#readme",
+  "dependencies": {}
 }
