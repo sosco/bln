@@ -14,7 +14,8 @@
   "website": "https://github.com/sosco/bln.git",
   "keywords": [
     "bln",
-    "blacknet"
+    "blacknet",
+    "blnapi"
   ],
   "author": "sosco",
   "license": "ISC",
